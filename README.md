@@ -1,7 +1,8 @@
 # sales-analysis-on-numeridex-supermarket
 Explanatory Data Analysis using Excel and PowerBi
 
-<img width="1302" height="798" alt="Screenshot 2025-10-28 145000" src="https://github.com/user-attachments/assets/c8267d3d-2188-4f2f-9f9a-b3e568a02ca1" />
+<img width="1304" height="808" alt="Screenshot 2025-10-29 123629" src="https://github.com/user-attachments/assets/d80abfc7-d9f6-475f-b734-124a684e9cac" />
+
 
 ## Introduction
 This project analyzes a supermarket sales dataset containing detailed information on customer transactions across multiple branches. The aim is to identify sales trends, understand customer purchasing behavior, and evaluate overall business performance. Using Power BI, the data was cleaned, transformed, and visualized through interactive dashboards. These dashboards highlight sales trends across branches, top-performing product lines, customer preferences, and payment patterns. The insights gained from this analysis provide a clear understanding of what drives revenue and customer satisfaction, supporting data-driven decision-making for future growth.
@@ -34,5 +35,9 @@ The objectives of this project are:
 * Introduce E-wallet payment incentives such as cashback or loyalty points to encourage digital adoption and reduce transaction costs.
 * Improve customer experience and service quality to raise the average rating above 6.89, particularly in lower-rated branches.
 * Implement strategic bundling of underperforming products with top sellers to boost sales of weaker categories.
+
+## Conclusion
+This analysis has successfully identified the key drivers of sales performance across product categories, cities, and branches, while providing valuable insights into customer purchasing behavior and payment preferences. Monthly trend analysis revealed seasonal patterns in sales activity, and cross-city comparisons highlighted regional variations in product demand and pricing. Customer satisfaction ratings indicated areas requiring service improvement, while customer type emerged as a significant factor influencing branch performance. These findings provide management with a data-driven foundation to make informed strategic decisions, optimize operational efficiency, enhance customer loyalty, and improve overall business performance.
+
 
 
