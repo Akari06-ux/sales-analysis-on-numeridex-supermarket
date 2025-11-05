@@ -18,11 +18,12 @@ The objectives of this project are:
 7.  To identify actionable insights that can guide business strategies, improve sales efficiency, and enhance customer experience.
 
 ## Insights and Interpretation
-* Health & Beauty, Sports & Travel, and Food & Beverages are the top-performing product categories, driving the majority of sales revenue.
-* Branch C (Naypyitaw) recorded the highest sales.
-* E-wallet payments are the most preferred payment method.
-* Normal customers generate more total revenue than Members.
-* Sales performance peaked in March after a February dip
+* The store generated sales of over ₦36,630 from 582 units sold, maintaining a consistent 5% tax rate.
+* Health & Beauty (≈₦8.3k), Sports & Travel (≈₦7.4k), and Food & Beverages (≈₦6.9k) are the top-performing product categories, driving the majority of sales revenue.
+* Branch C (Naypyitaw) achieved the highest overall sales at ₦13,967.37, despite having the same transaction volume as other branches (A), indicating higher revenue per transaction, followed by Branch A (Yangon) at ₦12,287.64 and Branch B (Mandalay) with the lowest performance.
+* E-wallet emerged as the dominant payment method with over ₦15,540 in revenue, substantially outperforming both cash (₦12,990) and credit card (₦8,090) payments, reflecting strong customer preference for digital transactions.
+* Normal customers (₦19,760 ) generate more total revenue than Members(₦16,870). Though Member behavior indicates higher value, with increased spend and stronger loyalty—most evident in Branch B, where member transactions outpaced non-member sales.
+* Sales performance peaked in March (≈₦13.5K) after a February dip (≈₦11.1K).
 * The average customer rating of 6.89 indicates moderate satisfaction, highlighting opportunities for service quality improvements.
 * Electronic Accessories and Fashion Accessories significantly underperformed.
 
